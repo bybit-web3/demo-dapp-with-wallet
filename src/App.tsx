@@ -5,7 +5,7 @@ import {Footer} from "./components/Footer/Footer";
 import {Header} from "./components/Header/Header";
 import {TxForm} from "./components/TxForm/TxForm";
 // import { Guigui } from './components/Guigui';
-import { TonProofDemo } from './components/TonProofDemo/TonProofDemo';
+// import { TonProofDemo } from './components/TonProofDemo/TonProofDemo';
 
 
 function App() {
@@ -158,7 +158,7 @@ function App() {
         <Header/>
         {/* <Guigui /> */}
         <TxForm/>
-        <TonProofDemo />
+        {/*  <TonProofDemo /> */}
         <Footer/>
       </div>
     </TonConnectUIProvider>
